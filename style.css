@@ -8,7 +8,8 @@
 .hero {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, #1d0000, #20205b);
+    /*background: linear-gradient(45deg, #1d0000, #20205b);*/
+    background: linear-gradient(45deg, #2d06bb, #138613);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -34,7 +35,8 @@
 
 .right {
     width: 42%;
-    background: #0762ad;
+    /*background: #0762ad;*/
+    background: #6f03a1;
     color: #fff;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -48,3 +50,4 @@
     font-size: 100px;
     line-height: 90px;
 }
+
